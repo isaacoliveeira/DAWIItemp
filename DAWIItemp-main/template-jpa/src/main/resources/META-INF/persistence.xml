@@ -17,7 +17,7 @@
 			<property name="jakarta.persistence.jdbc.driver" value="org.postgresql.Driver" />
 			<property name="jakarta.persistence.jdbc.url" value="jdbc:postgresql://ep-bitter-art-a40lxu3n-pooler.us-east-1.aws.neon.tech/verceldb?sslmode=require" />
 			<property name="jakarta.persistence.jdbc.user" value="default" />
-			<property name="jakarta.persistence.jdbc.password" value="Q5Ic6OYwWHMr" />
+			<property name="jakarta.persistence.jdbc.password" value="**********" />
 			<!-- /Database PostgreSQL-->
 
 			<!-- HIBERNATE -->
